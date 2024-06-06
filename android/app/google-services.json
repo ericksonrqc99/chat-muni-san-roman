@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898406026281",
+    "firebase_url": "https://muni-san-roman-chat-default-rtdb.firebaseio.com",
+    "project_id": "muni-san-roman-chat",
+    "storage_bucket": "muni-san-roman-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898406026281:android:be34c1fd9321c2c2f36038",
+        "android_client_info": {
+          "package_name": "com.munisanromanchat.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898406026281-p0th2m1tlbkrgm9vkm89r6lpcv9c2qhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.munisanromanchat.firebase",
+            "certificate_hash": "426df1450f91e2c97e184f53b0060185b5617895"
+          }
+        },
+        {
+          "client_id": "898406026281-5hifba95sumf15rkno8ojvtfdam6tv7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjftpOpFqkdY3wR2XbW9RIUM35sUTvLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898406026281-5hifba95sumf15rkno8ojvtfdam6tv7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
